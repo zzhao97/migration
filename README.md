@@ -30,5 +30,5 @@ This is a repository associated with manuscript "Chromatin Compaction During Con
 ### Instructions
 - Install **MATLAB** from the official [MathWorks website](https://www.mathworks.com/).
 
-## Reference
+## 3. Reference
 Thielicke, W. and Stamhuis, E.J. (2014): PIVlab – Towards User-friendly, Affordable and Accurate Digital Particle Image Velocimetry in MATLAB. Journal of Open Research Software 2(1):e30, DOI: http://dx.doi.org/10.5334/jors.bl
